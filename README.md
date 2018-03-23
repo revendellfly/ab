@@ -4,3 +4,4 @@ preceptron：感知器（感知器更容易使用硬件直接实现）
 		
 	多层神经网络中一个preceptron对于下层神经元的输出都是一样的。
 使用偏差(bias)来代替阈值(threshold)
+“编辑”
